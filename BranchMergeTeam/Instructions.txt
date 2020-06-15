@@ -1,0 +1,21 @@
+﻿Activity #2 – Branch and Merge
+Team
+
+Everyone Branch at the same time from dev
+Each person add a unique file containing your home address to the project, Commit, and Push.
+One person at a time:
+	1. Merge Dev into your branch
+	2. Make a pull Request
+	3. Once approved by the team, merge, delete your branch
+
+
+Merge Conflicts
+We have not gotten a merge conflict up until now because we have only added additional things to our project.
+A merge conflict arises when the same lines of code differ between the two branches you are merging.  
+The computer will force you to resolve the merge conflict.
+
+Click on the tan merge conflict notification at the top of the window.
+
+Once you have resolved the merge conflict:
+	• Commit and push your changes.
+	• Test the branch.
